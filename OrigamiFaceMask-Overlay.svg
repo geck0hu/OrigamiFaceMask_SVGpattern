@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    width="297mm" 
+    height="210mm" 
+    viewBox="0,0,297,210"
+    preserveAspectRatio="none" >
+  <style>
+    .normal { font: 6px sans-serif; font-family: Manjari,Helvetica, sans-serif; }
+    .italic { font: italic 8px sans-serif; font-family: Manjari,Helvetica,sans-serif; }
+    .logo { font: 7px sans-serif; font-family: Manjari,Helvetica,sans-serif; }
+
+    /* Note that the color of the text is set with the    *
+     * fill property, the color property is for HTML only */
+    .red { font: italic 40px serif; fill: red; }
+  </style>
+     <text x="230" y="11" text-anchor="start" class="normal">Valley Fold</text>
+     <text x="230" y="21" text-anchor="start" class="normal">Mountain Fold</text>
+     <text x="230" y="31" text-anchor="start" class="normal">Stapler Pin</text>
+     
+     <text x="10" y="195" text-anchor="start" class="normal">TEST</text>
+     <text x="147.5" y="195" text-anchor="middle" class="italic">overlay text (selectable) on all pages</text>
+     <text x="287" y="195" text-anchor="end" class="logo">©foldedlightart 2020</text>
+</svg>
